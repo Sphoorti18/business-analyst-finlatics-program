@@ -5,4 +5,4 @@ Key Points :
 Information (contains relevant data) --|--->> How to make informed choices? --> Visualisation tools in laptop or PC (MS excel)
 
 
-                                        --|--->> Business Analyst
+                                     --|--->> Business Analyst
